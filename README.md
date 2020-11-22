@@ -19,7 +19,7 @@ else if(a>=55 && a<69)
 }
 else if(a>40 && a<54)
 {
-printf("****GRADE D****")	
+printf("****GRADE D****");	
 }
 else if(a<40)
 {
